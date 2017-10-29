@@ -13,5 +13,5 @@ easily swapped out in the future.
 
 The two pages I made changes to are:
 
-html/gallery.php starting at line 127
+html/gallery.php starting at line 127<br>
 html/events.php starting at line 143
